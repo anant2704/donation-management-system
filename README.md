@@ -1,6 +1,6 @@
 # Donation Management System
 
-![Donation Management System](images/index.png)
+![Donation Management System](index.png)
 
 ## Overview
 
