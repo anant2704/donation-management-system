@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "root";
+$username = "--add your user name--";
 $password = "";
-$dbname = "donation_management";
+$dbname = "--add your database name--";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
